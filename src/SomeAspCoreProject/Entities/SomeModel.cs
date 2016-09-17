@@ -1,4 +1,4 @@
-﻿namespace SomeAspCoreProject.Models
+﻿namespace SomeAspCoreProject.Entities
 {
     public class SomeModel
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using SomeAspCoreProject.Models;
+using SomeAspCoreProject.Entities;
 
 namespace SomeAspCoreProject.Services
 {

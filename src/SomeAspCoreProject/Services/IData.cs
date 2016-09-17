@@ -1,4 +1,4 @@
-﻿using SomeAspCoreProject.Models;
+﻿using SomeAspCoreProject.Entities;
 using System.Collections.Generic;
 
 namespace SomeAspCoreProject.Services

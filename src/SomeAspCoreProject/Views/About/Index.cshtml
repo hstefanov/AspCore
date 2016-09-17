@@ -1,6 +1,8 @@
-﻿@model IEnumerable<SomeAspCoreProject.Models.SomeModel>
+﻿@model SomeAspCoreProject.ViewModels.DataViewModel
 
-@foreach(var m in Model)
+<h2>@Model.CurrentGreeting</h2>
+
+@foreach(var m in Model.Data)
 {
     <p>@m.Id</p>
 }
